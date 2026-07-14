@@ -616,7 +616,6 @@ Instead of learning only language patterns, it learns **organisational semantics
 AI Engineering Student | Building AI systems, agentic workflows and intelligent infrastructure
 
 GitHub: @AlishaFatima16
-LinkedIn: [your link]
+LinkedIn: https://www.linkedin.com/in/thealisha-fatima
 
-python -m src.main interactive
 ```
