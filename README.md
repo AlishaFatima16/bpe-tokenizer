@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### **The algorithm powering GPT-4 — rebuilt from 30 lines of pure Python**
+### **How GPT-4 tokenizes text — implemented from scratch to understand it completely**
 
 <br/>
 
